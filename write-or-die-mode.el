@@ -185,3 +185,5 @@ warning routine or stimulus routine."
   (backward-kill-word 1))
 
 (provide 'write-or-die)
+
+;;; write-or-die.el ends here
